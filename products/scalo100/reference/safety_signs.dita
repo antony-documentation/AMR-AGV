@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="safety_signs">
+    <title>Safety Signs</title>
+    <refbody>
+        <table>
+            <title>Safety Signs List</title>
+            <tgroup cols="2">
+                <thead>
+                    <row>
+                        <entry>Safety Sign</entry>
+                        <entry>Meaning</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Electrical Hazard</entry>
+                        <entry>High voltage present. Risk of electric shock.</entry>
+                    </row>
+                    <row>
+                        <entry>Laser Radiation Hazard</entry>
+                        <entry>Laser radiation present. Avoid exposure.</entry>
+                    </row>
+                    <row>
+                        <entry>Do Not Stand</entry>
+                        <entry>Do not stand in this area.</entry>
+                    </row>
+                    <row>
+                        <entry>Lift Point</entry>
+                        <entry>Indicates designated lifting point.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

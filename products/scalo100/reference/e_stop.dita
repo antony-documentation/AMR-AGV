@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="e_stop">
+    <title>E-stop</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <section id="section_in5_vsl_bjc">
+            <title>Emergency Stop</title>
+            <table frame="all" rowsep="0" colsep="0" id="table_tqh_ctl_bjc">
+                <tgroup cols="3">
+                    <colspec colnum="1" colname="c1" colwidth="75pt"/>
+                    <colspec colnum="2" colname="c2" colwidth="151.5pt"/>
+                    <colspec colnum="3" colname="c3" colwidth="384.75pt"/>
+                    <thead>
+                        <row>
+                            <entry namest="c1" nameend="c2">Button</entry>
+                            <entry>Describe</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <image placement="break" href="../../images/danger.png"
+                                    align="center" id="image_j3r_htl_bjc"/>
+                            </entry>
+                            <entry><i>Dangerfdsdssaa</i></entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p/>
+        </section>
+        <section id="section_njr_vtl_bjc">
+            <title>Reused</title>
+            <p conref="../concept/purpose_of_this_manual.dita#purpose_of_this_manual/open"/>
+            <table conref="#./table_tqh_ctl_bjc" id="table_txw_kwl_bjc">
+                <tgroup cols="1">
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="0" colsep="0" id="table_zwc_lqm_bjc">
+                <title>open</title>
+                <tgroup cols="5">
+                    <colspec colnum="1" colname="c1" colwidth="75pt"/>
+                    <colspec colnum="2" colname="c2" colwidth="75pt"/>
+                    <colspec colnum="3" colname="c3" colwidth="75pt"/>
+                    <colspec colnum="4" colname="c4" colwidth="94.5pt"/>
+                    <colspec colnum="5" colname="c5" colwidth="158.25pt"/>
+                    <thead>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry><i>fsdf</i></entry>
+                            <entry>
+                                <ul id="ul_cnm_tqm_bjc">
+                                    <li>vvgfgd</li>
+                                    <li/>
+                                </ul>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry>
+                                <ol id="ol_db3_5qm_bjc">
+                                    <li/>
+                                </ol>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_wrs_5qm_bjc">
+            <title>section</title>
+            <p/>
+        </section>
+    </conbody>
+</concept>

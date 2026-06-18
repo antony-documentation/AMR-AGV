@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="about_robis">
+    <title>About</title>
+    <conbody>
+        <p>This is the page for company profile</p>
+        <p product="Scalo">New content </p>
+        <p>Product</p>
+        
+        <section outputclass="bottom-section">
+            <title>Contact</title>
+            <p>Address</p>
+        </section>
+    </conbody>
+</concept>

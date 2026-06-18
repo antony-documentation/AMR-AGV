@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="system_parameters">
+    <title>System Parameters</title>
+    
+    <shortdesc>
+        This topic lists key system parameters and their values.
+    </shortdesc>
+    
+    <refbody>
+        <!-- ========================= -->
+        <!-- Table 1: System Alarms -->
+        <!-- ========================= -->
+        <section>
+            <title>System Alarms</title>
+            <p>This table contain has various data:</p>
+            <p>New work</p>
+            
+            <table id="tbl_specifications">
+                <title>System Alarms</title>
+                <tgroup cols="4">
+                    <colspec colname="c1"/>
+                    <colspec colname="c2"/>
+                    <colspec colname="c3"/>
+                    <colspec colname="c4"/>
+                    
+                    <thead>
+                        <row>
+                            <entry>Alarm ID</entry>
+                            <entry>Alarm Description</entry>
+                            <entry>Possible Cause</entry>
+                            <entry>Corrective Action</entry>
+                        </row>
+                    </thead>
+                    
+                    <tbody>
+                        <row>
+                            <entry>A01</entry>
+                            <entry>Emergency Stop Activated</entry>
+                            <entry>Emergency stop button is pressed</entry>
+                            <entry>Release the emergency stop and reset the system</entry>
+                        </row>
+                        
+                        <row>
+                            <entry>A02</entry>
+                            <entry>Door Close</entry>
+                            <entry>Safety door is not closed</entry>
+                            <entry>Close the safety door and acknowledge the alarm</entry>
+                        </row>
+                        
+                        <row>
+                            <entry>A03</entry>
+                            <entry>Low Air Pressure</entry>
+                            <entry>Insufficient pneumatic supply</entry>
+                            <entry>Check the air supply and restore pressure</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        
+        <!-- ============================== -->
+        <!-- Table 2: System Installation -->
+        <!-- ============================== -->
+        <section>
+            <title>System Installation</title>
+            
+            <table id="open">
+                <title>System Installation</title>
+                <tgroup cols="4">
+                    <colspec colname="c1"/>
+                    <colspec colname="c2"/>
+                    <colspec colname="c3"/>
+                    <colspec colname="c4"/>
+                    <thead>
+                        <row>
+                            <entry>Alarm ID</entry>
+                            <entry>Alarm Description</entry>
+                            <entry>Possible Cause</entry>
+                            <entry>Corrective Action</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>A01</entry>
+                            <entry>Emergency Stop Activated</entry>
+                            <entry>Emergency stop button is pressed</entry>
+                            <entry>Release the emergency stop and reset the system</entry>
+                        </row>
+                        <row>
+                            <entry>A02</entry>
+                            <entry>Door Close</entry>
+                            <entry>Safety door is not closed</entry>
+                            <entry>Close the safety door and acknowledge the alarm</entry>
+                        </row>
+                        <row>
+                            <entry>A03</entry>
+                            <entry>Low Air Pressure</entry>
+                            <entry>Insufficient pneumatic supply</entry>
+                            <entry>Check the air supply and restore pressure</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_mw2_p1c_f3c">
+            <title>New Test</title>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue
+                massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero,
+                sit amet commodo magna eros quis urna.</p>
+            <p>Nunc viverra imperdiet enim. Fusce est. Vivamus a
+                tellus.<codeblock id="codeblock_j4s_tzf_gjc">{
+  "task_id": "T123",
+  "task_status": 3,
+  "amr_id": "SCALO-100-001",
+  "amr_status": 2,
+  "timestamp": "2026-04-19T12:00:00"
+}</codeblock></p>
+            <p>
+                <table frame="all" rowsep="0" colsep="0" id="table_ps2_rky_fjc">
+                    <title/>
+                    <tgroup cols="10">
+                        <colspec colnum="1" colname="c1" colwidth="1*"/>
+                        <colspec colnum="2" colname="c2" colwidth="1*"/>
+                        <colspec colnum="3" colname="c3" colwidth="1*"/>
+                        <colspec colnum="4" colname="c4" colwidth="1*"/>
+                        <colspec colnum="5" colname="c5" colwidth="1*"/>
+                        <colspec colnum="6" colname="newCol7" colwidth="1*"/>
+                        <colspec colnum="7" colname="newCol8" colwidth="1*"/>
+                        <colspec colnum="8" colname="newCol9" colwidth="1*"/>
+                        <colspec colnum="9" colname="newCol10" colwidth="1*"/>
+                        <colspec colnum="10" colname="newCol11" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry>dad djkka dkkdoog sdkkkk;;sjappajjd dkjfd kshsk dknf</entry>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+            <table frame="all" rowsep="0" colsep="0" id="table_bzj_5ky_fjc">
+                <title/>
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="c1" colwidth="75pt"/>
+                    <colspec colnum="2" colname="c2" colwidth="231pt"/>
+                    <thead>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>close</entry>
+                            <entry>open fds</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p>Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.</p>
+            <p>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris
+                eget neque at sem venenatis eleifend. Ut nonummy.</p>
+            <p>Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer
+                nulla.</p>
+            <p>Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus
+                ipsum pretium metus, in lacinia nulla nisl eget sapien. Donec ut est in lectus
+                consequat consequat.</p>
+            <p>Etiam eget dui. Aliquam erat volutpat. Sed at lorem in nunc porta tristique.</p>
+            <p>Proin nec augue. Quisque aliquam tempor magna. Pellentesque habitant morbi tristique
+                senectus et netus et malesuada fames ac turpis egestas.</p>
+            <p>Nunc ac magna. Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis.
+                Pellentesque cursus sagittis felis.<note id="note_n4w_wdk_f3c" type="notice"
+                    >Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                    turpis egestas. Proin semper, ante vitae sollicitudin posuere, metus quam
+                    iaculis nibh, vitae scelerisque nunc massa eget pede. Sed velit urna, interdum
+                    vel, ultricies vel, faucibus at, quam.</note></p>
+            <p>Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec
+                vulputate augue magna vel risus. Cras non magna vel ante adipiscing rhoncus. Vivamus
+                a mi.</p>
+            <p>Morbi neque. Aliquam erat volutpat. Integer ultrices lobortis eros.</p>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                egestas. Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh,
+                vitae scelerisque nunc massa eget pede. Sed velit urna, interdum vel, ultricies vel,
+                faucibus at, quam.</p>
+            <p>Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi. In in nunc.
+                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+                hymenaeos.</p>
+            <p>Donec ullamcorper fringilla eros. Fusce in sapien eu purus dapibus commodo. Cum
+                sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                mus.</p>
+            <p>Cras faucibus condimentum odio. Sed ac ligula. Aliquam at eros.</p>
+            <p>Etiam at ligula et tellus ullamcorper ultrices. In fermentum, lorem non cursus
+                porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl. Ut tincidunt
+                volutpat urna.</p>
+            <p>Mauris eleifend nulla eget mauris. Sed cursus quam id felis. Curabitur posuere quam
+                vel nibh.</p>
+            <p>Cras dapibus dapibus nisl. Vestibulum quis dolor a felis congue vehicula. Maecenas
+                pede purus, tristique ac, tempus eget, egestas quis, mauris.</p>
+            <p>Curabitur non eros. Nullam hendrerit bibendum justo. Fusce iaculis, est quis lacinia
+                pretium, pede metus molestie lacus, at gravida wisi ante at libero.</p>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue
+                massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero,
+                sit amet commodo magna eros quis urna.</p>
+            <p>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.</p>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                egestas. Proin pharetra nonummy pede. Mauris et orci.</p>
+            <p>Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.</p>
+            <p>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris
+                eget neque at sem venenatis eleifend. Ut nonummy.</p>
+            <p>Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer
+                nulla.</p>
+            <p>Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus
+                ipsum pretium metus, in lacinia nulla nisl eget sapien. Donec ut est in lectus
+                consequat consequat.</p>
+            <p>Etiam eget dui. Aliquam erat volutpat. Sed at lorem in nunc porta tristique.</p>
+            <p>Proin nec augue. Quisque aliquam tempor magna. Pellentesque habitant morbi tristique
+                senectus et netus et malesuada fames ac turpis egestas.</p>
+            <p>Nunc ac magna. Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis.
+                Pellentesque cursus sagittis felis.</p>
+            <p>Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec
+                vulputate augue magna vel risus. Cras non magna vel ante adipiscing rhoncus. Vivamus
+                a mi.</p>
+            <p>Morbi neque. Aliquam erat volutpat. Integer ultrices lobortis eros.</p>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                egestas. Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh,
+                vitae scelerisque nunc massa eget pede. Sed velit urna, interdum vel, ultricies vel,
+                faucibus at, quam.</p>
+            <p>Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi. In in nunc.
+                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+                hymenaeos.</p>
+            <p>Donec ullamcorper fringilla eros. Fusce in sapien eu purus dapibus commodo. Cum
+                sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                mus.</p>
+            <p>Cras faucibus condimentum odio. Sed ac ligula. Aliquam at eros.</p>
+            <p>Etiam at ligula et tellus ullamcorper ultrices. In fermentum, lorem non cursus
+                porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl. Ut tincidunt
+                volutpat urna.</p>
+            <p>Mauris eleifend nulla eget mauris. Sed cursus quam id felis. Curabitur posuere quam
+                vel nibh.</p>
+            <p>Cras dapibus dapibus nisl. Vestibulum quis dolor a felis congue vehicula. Maecenas
+                pede purus, tristique ac, tempus eget, egestas quis, mauris.</p>
+            <p>Curabitur non eros. Nullam hendrerit bibendum justo. Fusce iaculis, est quis lacinia
+                pretium, pede metus molestie lacus, at gravida wisi ante at libero.</p>
+        </section>
+    </refbody>
+</reference>

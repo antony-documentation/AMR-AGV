@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="battery_installation">
+    <title>Install the Battery</title>
+    <taskbody>
+        <prereq>
+            <p>Park the AGV on a level surface and switch off the power.</p>
+        </prereq>
+        
+        <steps>
+            <step>
+                <cmd>Open the battery compartment cover.</cmd>
+            </step>
+            
+            <step id="ifirst">
+                <cmd>Carefully place the battery into the battery compartment.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Connect the battery connector securely.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Ensure the battery is properly seated and locked.</cmd>
+            </step>
+            
+            <step id="ilast">
+                <cmd>Close the battery compartment cover.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Switch on the AGV and verify normal operation.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+
+
+
+
+
+

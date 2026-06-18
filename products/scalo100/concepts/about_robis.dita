@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="about_robis">
+    <title>About Robis</title>
+    <conbody>
+        <p>Motherson recognized the importance of being self-reliant by building ROBIS [Robotic
+            Automation and Innovative Solutions] in-house in India. Embracing this vision of
+            innovation, flexibility, and self sufficiency, ROBIS was established in 2009.
+            Headquartered in Chennai, ROBIS serves as a center for design, technology development,
+            product innovation, manufacturing, and testing. </p>
+        <p>Recognizing its growing needs, ROBIS has established satellite centers in Europe for
+            sales and service support. Our business segments include cloud solutions, material
+            handling and warehouse automation, robots and robotic automation, assembly and testing
+            solutions, joining solutions, and remanufacturing services. </p>
+        <p>Our driving force is one of perseverance, dedication, and self-sufficiency, evoking a
+            sense of trust and reliability with our customers. Our uncompromised standards and
+            commitment have made us stronger over the years, making ROBIS a trustworthy partner
+            globally. Our strengths include technical <xref
+                href="../Task/Installation.dita#Installation/image_cd2_ryk_5hc">proficiency</xref>,
+            a global perspective, <xref
+                href="../Task/Installation.dita#Installation/fig_bd2_ryk_5hc">and</xref>
+            <xref href="../Reference/specifications.dita#system_parameters/note_n4w_wdk_f3c"
+                >customer-centric solutions.</xref></p>
+        <p/>
+        <p>refer the  <xref
+                href="../Reference/specifications.dita#system_parameters/tbl_specifications"/></p>
+        <p>refer to <xref href="../Reference/specifications.dita#system_parameters/open"/></p>
+        <p><xref href="../Task/Installation.dita#Installation/fig_bd2_ryk_5hc"/></p>
+        <p><xref href="../Task/Installation.dita"/></p>
+        <p/>
+        <p>Refer to this section <xref
+                href="../Reference/specifications.dita#system_parameters/section_mw2_p1c_f3c"/></p>
+        
+        <section id="address">
+            <title>Office Address</title>
+            <p>Motherson Automotive Technologies and Engineering – ROBIS </p>
+            <p>(A division of Motherson)</p>
+            <p>Survey No.: 172/1-5, 274/2, 276/7, Chengalpattu to Sriperumbudur Road, Vadagal Village,</p>
+            <p>Sriperumbudur Taluk, Kancheepuram – Dt Tamil Nadu – State</p>
+            <p>INDIA – 602105</p>
+            <p>www.motherson.com</p>
+        </section>
+    </conbody>
+</concept>

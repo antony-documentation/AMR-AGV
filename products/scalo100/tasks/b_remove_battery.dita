@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="battery_removal">
+    <title>Remove the Battery</title>
+    <taskbody>
+        <prereq>
+            <p>Park the AGV in the designated maintenance area and switch off the power.</p>
+        </prereq>
+        
+        <steps>
+            <step id="rfirst">
+                <cmd>Open the battery access panel.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Unlock the battery retaining latch.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Disconnect the battery power connector.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Carefully slide the battery out along the guide rails.</cmd>
+            </step>
+            
+            <step id="rlast">
+                <cmd>Lift and remove the battery using the designated handles.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Place the battery in a safe storage or charging area.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Close the battery access panel.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+

@@ -1,0 +1,12 @@
+# DITA-OT output
+output/
+temp/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store

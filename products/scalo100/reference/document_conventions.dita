@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="document_conventions">
+    <title>Document Conventions</title>
+        <refbody>    
+            <table>
+                <title>Safety Signal Definitions</title>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <entry>Icon</entry>
+                            <entry>Signal Word</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                            <image href="../../images/danger.png" alt="Danger icon"/>
+                        </entry>
+                            <entry><b>Danger</b></entry>
+                            <entry>Indicates a hazardous situation that will result in death or serious injury if not avoided.</entry>
+                        </row>
+                        <row>
+                            <entry>
+                            <image href="../../images/warning.png" alt="Warning icon"/>
+                        </entry>
+                            <entry><b>Warning</b></entry>
+                            <entry>Indicates a hazardous situation that could result in serious injury if not avoided.</entry>
+                        </row>
+                        <row>
+                            <entry>
+                            <image href="../../images/caution.png" alt="Caution icon"/>
+                        </entry>
+                            <entry><b>Caution</b></entry>
+                            <entry>Indicates a hazardous situation that could result in minor or moderate injury.</entry>
+                        </row>
+                        <row>
+                            <entry>
+                            <image href="../../images/note.png" alt="Note icon"/>
+                        </entry>
+                            <entry><b>Note</b></entry>
+                            <entry>Indicates information related to property damage or important system behavior.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </refbody>
+</reference>
