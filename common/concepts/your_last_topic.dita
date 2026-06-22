@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="last_page">
+    <title>Back Cover</title>
+    <body>
+        <image href="../Rob2/resources/images/robis_end.png" id="image_wj3_mgg_23c"
+            placement="break" align="center"/>
+    </body>
+</topic>

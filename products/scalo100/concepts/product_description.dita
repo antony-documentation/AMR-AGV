@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="product_description">
+    <title>Product Description</title>       
+        <conbody>
+            <p>The Bi-directional Scalo 100 Autonomous Mobile Robot (AMR) is an automated system designed to transfer bumper components within a production line environment.</p>
+            
+            <p>The AMR operates in both forward and reverse directions, enabling efficient material flow between workstations. It supports continuous movement of components and reduces dependency on manual handling.</p>
+            
+            <p>The system includes a dedicated bumper fixture that securely holds components during transport. Operators interact with the system primarily for loading and unloading activities.</p>
+            
+            <p>The AMR consists of integrated subsystems that support safe navigation, system control, and operator interaction. These include safety mechanisms, user interface components, and control elements.</p>
+            
+            <p>The system is powered by an onboard rechargeable battery and uses a plug-in charging method for energy replenishment.</p>
+            
+            <p>The AMR enhances operational efficiency by automating internal transport processes, improving workplace safety, and supporting consistent production workflows.</p>
+        <p>
+            <image placement="break" keyref="fig" width="200" align="center" id="image_mlg_h2j_hjc"
+            />
+        </p>
+        </conbody>
+</concept>

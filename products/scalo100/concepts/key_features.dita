@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="key_features">
+    <title>Key Features</title>
+    <refbody>
+        <section>
+            <ol id="ol_ttd_42y_fjc">
+                <li>Bi-directional <ph keyref="agv.name"/>navigation for forward and reverse
+                    movement along the production line</li>
+                <li>Dedicated bumper fixture for secure placement and transport of components</li>
+                <li>Manual loading and unloading for operator interaction</li>
+                <li>Integrated safety sensors for obstacle detection and safe navigation</li>
+                <li>Emergency stop (E-stop) buttons for immediate system shutdown</li>
+                <li>Touchscreen interface for system monitoring and control</li>
+                <li>Rechargeable onboard battery for autonomous operation</li>
+                <li>Manual plug-in charging connector</li>
+                <li>Compact mobile platform for industrial environments</li>
+            </ol>
+        </section>
+    </refbody>
+</reference>

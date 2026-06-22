@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <booklibrary><image id="image_a4p_2cd_rjc" href="../images/ranjangoan_amr.png" align="center" height="400"
+            /></booklibrary>
+        <mainbooktitle>scalooo100</mainbooktitle>
+        <booktitlealt>User Manual</booktitlealt>
+    </booktitle>
+    <bookmeta>
+        <bookid>
+            <edition>Revision 00</edition>
+        </bookid>
+    </bookmeta>
+    <frontmatter>
+        <topicref href="../../../common/concepts/company_profile.dita" toc="no" outputclass="frontmatter-page" chunk="to-content"/>
+        <booklists>
+            <toc/>
+            <figurelist/>
+            <tablelist/>
+        </booklists>
+    </frontmatter>
+    <chapter href="../concepts/introduction.dita">
+        <topicref href="../concepts/purpose_of_this_manual.dita"/>
+        <topicref href="../concepts/target_audience.dita"/>
+        <topicref href="../concepts/product_description.dita"/>
+        <topicref href="../concepts/key_features.dita"/>
+    </chapter>
+</bookmap>

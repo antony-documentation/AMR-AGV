@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="target_audience">
+    <title>Target Audience</title>     
+        <conbody>
+            <p>This manual is intended for personnel who interact with or are responsible for the Bi-directional Scalo 100 Autonomous Mobile Robot (AMR).</p>
+            
+            <p>The audience includes individuals involved in system operation, maintenance, safety supervision, and performance evaluation within the production environment.</p>
+            
+            <p>The following user roles are addressed in this manual:</p>
+            <ul>
+                <li><b>Operators</b> – Personnel who handle daily system operation and material handling activities.</li>
+                <li><b>Maintenance technicians</b> – Personnel responsible for inspection, servicing, and fault resolution.</li>
+                <li><b>Safety officers</b> – Personnel who ensure compliance with safety standards and operational guidelines.</li>
+                <li><b>Engineers and supervisors</b> – Personnel who monitor system performance and workflow integration.</li>
+            </ul>
+            
+            <p>Each role uses relevant sections of this manual based on their responsibilities and level of interaction with the system.</p>
+        </conbody>
+</concept>

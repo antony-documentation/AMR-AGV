@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="purpose_of_this_manual">
+    <title>Purpose of this Manual</title>
+    <conbody>
+        <p id="product">This manual describes the <ph keyref="product"/> and provides the
+            information required to understand its operation, maintenance, and troubleshooting.</p>
+        <p id="open">The manual defines the system, its functions, and its operational context
+            within the production environment. It explains how the AMR supports material transport,
+            improves workflow efficiency, and enhances workplace safety.</p>
+        <p><image keyref="fig" id="image_gkx_qgj_hjc"/></p>
+    </conbody>
+</concept>
