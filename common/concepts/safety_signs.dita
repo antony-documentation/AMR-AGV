@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="safety_signs">
+    <title>Safety Signs</title>
+    <refbody>
+        <table>
+            <title>Safety Signs List</title>
+            <tgroup cols="3">
+                <colspec colnum="1" colname="c2" colwidth="1*"/>
+                <colspec colnum="2" colname="c1" colwidth="1.19*"/>
+                <colspec colnum="3" colname="c3" colwidth="2.43*"/>
+                <thead>
+                    <row>
+                        <entry>Safety Sign</entry>
+                        <entry> Sign Name</entry>
+                        <entry>Meaning</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry id="electric.hazard">
+                            <image placement="break" href="../../images/electrical%20hazard.png"
+                                align="center" id="image_czh_wst_gjc" width="100"/>
+                        </entry>
+                        <entry><b>Electrical Hazard</b></entry>
+                        <entry>High voltage present. Risk of electric shock.</entry>
+                    </row>
+                    <row>
+                        <entry id="laser.hazard">
+                            <image placement="break"
+                                href="../../images/laser%20radiation%20hazard.png" align="center"
+                                id="image_vqv_wst_gjc" width="130"/>
+                        </entry>
+                        <entry><b>Laser Radiation Hazard</b></entry>
+                        <entry>Laser radiation present. Avoid exposure.</entry>
+                    </row>
+                    <row>
+                        <entry id="donot.stand">
+                            <image placement="break" href="../../images/do%20not%20stand.png"
+                                align="center" id="image_fy5_xst_gjc" width="120"/>
+                        </entry>
+                        <entry><b>Do Not Stand</b></entry>
+                        <entry>Do not stand in this area.</entry>
+                    </row>
+                    <row>
+                        <entry id="lift.point">
+                            <image placement="break" href="../../images/lift%20point.jpg"
+                                align="center" id="image_ubh_yst_gjc" width="100"/>
+                        </entry>
+                        <entry><b>Lift Point</b></entry>
+                        <entry>Indicates designated lifting point.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

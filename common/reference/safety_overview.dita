@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety_overview">
+    <title>Safety Overview</title>
+        <conbody>
+            <p>The Bi-directional Scalo 100 AMR is designed in accordance with applicable safety standards. However, potential hazards may occur during operation, maintenance, or abnormal conditions.</p>
+            
+            <p>This section describes safety-related information, including hazards, protective measures, and system limitations associated with the AMR.</p>
+            
+            <p>Understanding these safety considerations is essential for safe interaction with the system and for minimizing risks to personnel and equipment.</p>
+        </conbody>
+</concept>
